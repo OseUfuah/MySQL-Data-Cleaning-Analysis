@@ -1,4 +1,4 @@
-# MySQL-Data-Cleaning/Analysis
+# MySQL-Data-Cleaning/Analysis(Lay-Offs)
 ## Overview
 This repository contains my scripts for performing data cleaning and exploration tasks using MySQL. It shows my step by step approach to preparing raw data for analysis and to gain insights through exploratory data analysis (EDA).
 
